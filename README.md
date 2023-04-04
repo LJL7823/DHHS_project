@@ -2,8 +2,8 @@
 DHHS 101 Final Project
 
 Contributors: <br/>
-    Tszfai Choy <br/>
-    Xin Huang <br/>
-    Liam Lavery <br/>
-    Garrett Miskoe <br/>
-    Sam Peterson
+    &nbsp; &nbsp; &nbsp; &nbsp; Tszfai Choy <br/>
+    &nbsp; &nbsp; &nbsp; &nbsp; Xin Huang <br/>
+    &nbsp; &nbsp; &nbsp; &nbsp; Liam Lavery <br/>
+    &nbsp; &nbsp; &nbsp; &nbsp; Garrett Miskoe <br/>
+    &nbsp; &nbsp; &nbsp; &nbsp; Sam Peterson
