@@ -8,6 +8,7 @@
   display: flex;
   justify-content: center;
   position: relative;
+  transition: all 0.25s ease-in-out;
 }
 .main-container .main-row .main-img, .main-container .main-row .sub-img {
   height: 400px;

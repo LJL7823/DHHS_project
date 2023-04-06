@@ -7,6 +7,7 @@
     display: flex;
     justify-content: center;
     position: relative;
+    transition: all 0.25s ease-in-out;
     & .main-img,
     & .sub-img {
       height: 400px;
