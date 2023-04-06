@@ -1,0 +1,22 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 5rem;
+  justify-content: center;
+}
+.main-container .main-row {
+  display: flex;
+  justify-content: center;
+}
+.main-container .main-row .main-img, .main-container .main-row .sub-img {
+  height: 400px;
+  width: 400px;
+  position: relative;
+  transition: opacity 1s ease-in-out;
+}
+.main-container .main-col {
+  padding: 2.5rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}/*# sourceMappingURL=experience.css.map */

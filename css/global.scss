@@ -9,12 +9,12 @@ $nav-hover-color: #eee;
   font-family: "Roboto", "Arial", "Sans-Serif";
 }
 .navbar {
-  width: 100vw;
+  max-width: 100vw;
   background-color: $nav-bg-color;
   color: $nav-text-color;
   display: flex;
   justify-content: space-between;
-  padding: 1rem 5rem 1rem 5rem;
+  padding: 1.5rem 5rem 1.5rem 5rem;
   align-items: center;
 }
 .nav-link {

@@ -1,0 +1,27 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 5rem;
+  justify-content: center;
+  & .main-row {
+    display: flex;
+    justify-content: center;
+
+    & .main-img,
+    & .sub-img {
+      height: 400px;
+      width: 400px;
+      position: relative;
+      -webkit-transition: opacity 1s ease-in-out;
+      -moz-transition: opacity 1s ease-in-out;
+      -o-transition: opacity 1s ease-in-out;
+      transition: opacity 1s ease-in-out;
+    }
+  }
+  & .main-col {
+    padding: 2.5rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+}
