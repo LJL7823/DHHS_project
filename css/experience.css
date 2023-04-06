@@ -7,11 +7,11 @@
 .main-container .main-row {
   display: flex;
   justify-content: center;
+  position: relative;
 }
 .main-container .main-row .main-img, .main-container .main-row .sub-img {
   height: 400px;
   width: 400px;
-  position: relative;
   transition: opacity 1s ease-in-out;
 }
 .main-container .main-col {
