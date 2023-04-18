@@ -2,18 +2,18 @@ let colorImage = document.getElementById("image");
 let button1 = document.getElementById("button1");
 
 const before = [
-  "../images/first.jpg",
-  "../images/first.jpg",
-  "../images/first.jpg",
-  "../images/first.jpg",
-  "../images/first.jpg",
+  "../images/colorblind_images_buttons/standard.png",
+  "../images/colorblind_images_buttons/standard.png",
+  "../images/colorblind_images_buttons/standard.png",
+  "../images/colorblind_images_buttons/standard.png",
+  "../images/colorblind_images_buttons/standard.png",
 ];
 const after = [
-  "../images/download.png",
-  "../images/download.png",
-  "../images/download.png",
-  "../images/download.png",
-  "../images/download.png",
+  "../images/colorblind_images_buttons/deuteranopia.png",
+  "../images/colorblind_images_buttons/protanopia.png",
+  "../images/colorblind_images_buttons/tritanopia.png",
+  "../images/colorblind_images_buttons/achromoplastia.png",
+  "../images/colorblind_images_buttons/deuteranopia.png",
 ];
 
 for (let x = 1; x <= 4; x++) {
