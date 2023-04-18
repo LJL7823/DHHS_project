@@ -9,7 +9,7 @@ const before = [
   "../images/colorblind_images_buttons/standard.png",
 ];
 const after = [
-  "../images/colorblind_images_buttons/deuteranopia.png",
+  "../images/colorblind_images_buttons/deuteranomaly.png",
   "../images/colorblind_images_buttons/protanopia.png",
   "../images/colorblind_images_buttons/tritanopia.png",
   "../images/colorblind_images_buttons/achromoplastia.png",
