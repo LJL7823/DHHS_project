@@ -1,0 +1,19 @@
+.main-research {
+  width: 80%;
+  margin: auto;
+  & .research-section {
+    margin: 2.5rem 0 5.5rem 0;
+  }
+  & .research-title {
+    font-size: 36px;
+    text-align: center;
+  }
+  & .research-body {
+    line-height: 1.9;
+    font-size: 24px;
+    margin-bottom: 4.5rem;
+  }
+  & .research-image {
+    width: 100%;
+  }
+}
