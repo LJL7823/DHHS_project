@@ -27,4 +27,9 @@
 }
 .nav-link:hover {
   color: #eee;
-}/*# sourceMappingURL=global.css.map */
+}
+.citation{
+  list-style-type: none; /* Remove bullets */
+  padding: 50; /* Remove padding */
+  margin: 50; /* Remove margins */
+}
