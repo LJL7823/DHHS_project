@@ -9,7 +9,7 @@
   font-size: 36px;
   text-align: center;
 }
-.main-research .research-body {
+.main-research .research-body, .main-research .research-body > * {
   line-height: 1.9;
   font-size: 24px;
   margin-bottom: 4.5rem;
