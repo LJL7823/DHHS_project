@@ -23,10 +23,13 @@
   }
   & .research-container {
     display: flex;
-    align-items: center;
     & .image-col {
+      & img {
+        margin-bottom: 2rem;
+      }
       display: flex;
       flex-direction: column;
+      justify-content: flex-end;
     }
   }
 }

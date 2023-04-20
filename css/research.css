@@ -23,9 +23,12 @@
 }
 .main-research .research-container {
   display: flex;
-  align-items: center;
 }
 .main-research .research-container .image-col {
   display: flex;
   flex-direction: column;
+  justify-content: flex-end;
+}
+.main-research .research-container .image-col img {
+  margin-bottom: 2rem;
 }/*# sourceMappingURL=research.css.map */
