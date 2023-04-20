@@ -8,12 +8,14 @@
 .main-research .research-title {
   font-size: 36px;
   text-align: center;
+  margin-bottom: 2.5rem;
 }
-.main-research .research-body, .main-research .research-body > * {
-  line-height: 1.9;
+.main-research .research-body,
+.main-research .research-body > * {
+  line-height: 2.2;
   font-size: 24px;
   margin-bottom: 4.5rem;
 }
 .main-research .research-image {
   width: 100%;
-}/*# sourceMappingURL=research.css.map */
+} /*# sourceMappingURL=research.css.map */
