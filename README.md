@@ -1,4 +1,4 @@
-# DHHS_project
+# ChromaSight
 DHHS 101 Final Project
 
 Contributors: <br/>
