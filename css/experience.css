@@ -12,7 +12,7 @@
 }
 .main-container .main-row .main-img, .main-container .main-row .sub-img {
   height: 400px;
-  width: 400px;
+  width: 500px;
   transition: opacity 1s ease-in-out;
 }
 .main-container .main-col {
@@ -27,7 +27,7 @@
 
 .deu {
   border: none;
-  background: white;
+  background: #eee;
   font-size: 24px;
   width: 50%;
   margin: auto;
@@ -53,7 +53,7 @@
 
 .prop {
   border: none;
-  background: white;
+  background: #eee;
   font-size: 24px;
   width: 50%;
   margin: auto;
@@ -79,7 +79,7 @@
 
 .achro {
   border: none;
-  background: white;
+  background: #eee;
   font-size: 24px;
   width: 50%;
   margin: auto;
@@ -105,7 +105,7 @@
 
 .trit {
   border: none;
-  background: white;
+  background: #eee;
   font-size: 24px;
   width: 50%;
   margin: auto;
